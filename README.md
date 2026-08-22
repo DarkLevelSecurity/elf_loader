@@ -1,4 +1,4 @@
-s# ELF loader
+# ELF loader
 
 This is a PoC to a technique I found on X. This technique create an anonymous process in the linux memory in run time and inject a payload then execute it.
 
