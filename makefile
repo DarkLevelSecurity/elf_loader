@@ -4,4 +4,4 @@ example:
 	gcc src/payload_example.c -o payload_example.elf
 
 clean:
-	rm -v *.elf *.out *.txt
+	rm -fv *.elf *.out *.txt
