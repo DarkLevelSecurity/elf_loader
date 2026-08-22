@@ -10,7 +10,7 @@ This is a PoC to a technique I found on X. This technique creates an anonymous p
 
 ## How to try
 
-Download the code: `git clone [REPO_URL]`
+Download the code: `git clone https://github.com/DarkLevelSecurity/elf_loader.git && cd elf_loader`
 
 Compile the loader: `make loader`
 
