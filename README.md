@@ -1,6 +1,6 @@
 # ELF loader
 
-This is a PoC to a technique I found on X. This technique create an anonymous process in the linux memory in run time and inject a payload then execute it.
+This is a PoC to a technique I found on X. This technique creates an anonymous process in the linux memory in run time and inject a payload then execute it.
 
 > *Note: This code reads the targeted payload from the device disk with no decryption or any kind of obsfuscation methods. A more practical version will include obfuscation, and the should be payload fetched from the internet or embedded in the loader code*
 
